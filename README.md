@@ -12,3 +12,5 @@
 3. Write clean and efficient code
 4. Prepare for coding interviews and competitive programming
 
+* To run the programs clone the repository and run the files using ./
+
